@@ -28,7 +28,9 @@ sin una producción que la defina; el programa lo advierte sin inventar una regl
 
 ## Problema 2: procedimiento
 
-El procedimiento escrito se entrega en PDF dentro de `Problema 2`.
+[Solución del problema 2](Problema%202/solucion_problema_2.pdf): eliminación de
+producciones ε, producciones unitarias y símbolos inútiles, seguida de la
+conversión a Forma Normal de Chomsky.
 
 ## Video de demostración
 
