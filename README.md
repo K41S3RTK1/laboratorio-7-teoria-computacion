@@ -34,5 +34,5 @@ conversión a Forma Normal de Chomsky.
 
 ## Video de demostración
 
-Demostración de la ejecución y la validación de errores (máximo 10 minutos,
-video no listado): enlace pendiente.
+Demostración de la ejecución y la validación de errores (video no listado):
+[ver video](https://youtu.be/yFrPmYXiImw).
